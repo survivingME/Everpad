@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Vanote</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="note_privacy_and_recycle">私密便签无法直接预览，请先恢复！</string>
+
+    <string name="database_content_one">点击右上角，可以切换视图样式！</string>
+    <string name="database_content_two">长按便签，可以进行批量操作！</string>
+    <string name="database_content_three">在设置中，可以切换主题颜色！</string>
+    <string name="database_content_four">点击右下角，创建新的便签！</string>
+    <string name="database_content_five">
+        这是一款MD设计风格的记事本，可以在笔记中添加文字和图片，并支持有密码的私密空间，而且可以分享
+    </string>
+
+    <string name="dev_say"></string>
+
+    <string name="about_key_to_alipay">to_alipay</string>
+    <string name="about_key_about_dev">about_dev</string>
+    <string name="about_key_to_market">to_market</string>
+    <string name="about_key_check_version">check_version</string>
+    <string name="about_key_to_feedback">to_feekback</string>
+
+    <string name="alipay_qr_code">HTTPS://QR.ALIPAY.COM/FKX02204SZGKIYYQSFPR54</string>
+    <string name="my_email">fuyao@ict.ac.cn</string>
+    <string name="github"><u>https://github.com/survivingME</u></string>
+    <string name="jian_shu"><u>http://www.jianshu.com/u/707e22330793</u></string>
+    <string name="csdn"><u>https://trembleguy.com/wordpress</u></string>
+    <string name="app_github">本软件已开源，地址：<u>https://github.com/survivingME/Vanote</u></string>
+    <string name="bmob_app_id"></string>
+
+</resources>
