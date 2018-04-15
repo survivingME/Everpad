@@ -1,5 +1,5 @@
-#Vanote是一款开源的Android便签，实现了主流便签的基本功能，并不断完善中。
-##特点： Material Design设计、MVP设计模式；
+# Vanote是一款开源的Android便签，实现了主流便签的基本功能，并不断完善中。
+## 特点： Material Design设计、MVP设计模式；
 
 ## 代码地址：[GitHub](https://github.com/survivingME/Vanote) 欢迎star
 
