@@ -28,7 +28,7 @@
         android:supportsRtl="true"
         android:theme="@style/NoActionBar">
         <activity
-            android:name="app.fadai.supernote.module.notes.main.NoteMainActivity"
+            android:name="app.fadai.supernote.module.notes.main.LoginActivity"
             android:label="@string/app_name"
             android:theme="@style/NoActionBar">
             <intent-filter>
@@ -48,6 +48,10 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_paths"/>
         </provider>
+
+        <activity android:name="app.fadai.supernote.module.notes.main.RegisterActivity"/>
+
+        <activity android:name="app.fadai.supernote.module.notes.main.NoteMainActivity"/>
 
         <activity android:name="app.fadai.supernote.module.notes.edit.EditNoteActivity"
             android:windowSoftInputMode="stateHidden|stateAlwaysHidden"/>

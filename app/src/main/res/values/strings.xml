@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Vanote</string>
+    <string name="app_name">Note</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -9,7 +9,7 @@
 
     <string name="database_content_one">点击右上角，可以切换视图样式！</string>
     <string name="database_content_two">长按便签，可以进行批量操作！</string>
-    <string name="database_content_three">在设置中，可以切换主题颜色！</string>
+    <string name="database_content_three">编辑便签尝试更多功能！</string>
     <string name="database_content_four">点击右下角，创建新的便签！</string>
     <string name="database_content_five">
         这是一款MD设计风格的记事本，可以在笔记中添加文字和图片，并支持有密码的私密空间，而且可以分享

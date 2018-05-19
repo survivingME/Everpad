@@ -115,10 +115,6 @@ public class FolderListFragment extends BaseFragment<IFolderListView, FolderList
      */
     private View getFolderHeaderView() {
         mHearderView1 = LayoutInflater.from(mContext).inflate(R.layout.layout_folder_hearder, null, false);
-        TextView tvToFeedback=(TextView)mHearderView1.findViewById(R.id.tv_folderlist_to_feedback);
-        TextView tvToDev=(TextView)mHearderView1.findViewById(R.id.tv_folderlist_to_developer);
-        tvToFeedback.setOnClickListener(this);
-        tvToDev.setOnClickListener(this);
         return mHearderView1;
     }
     private View getFolderHeaderView2() {

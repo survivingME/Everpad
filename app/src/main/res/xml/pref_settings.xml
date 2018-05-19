@@ -16,12 +16,6 @@
             <intent
                 android:action="com.app.fadai.supernote.LOCK_SETTING" />
         </PreferenceScreen>
-        <PreferenceScreen
-            android:title="关于"
-            android:key="about">
-            <intent
-                android:action="com.app.fadai.supernote.APP_ABOUT"/>
-        </PreferenceScreen>
 
     </PreferenceCategory>
 </PreferenceScreen>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\15510\Desktop\SuperNote-master\SuperNote.iml" filepath="C:\Users\15510\Desktop\SuperNote-master\SuperNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vanote.iml" filepath="$PROJECT_DIR$/Vanote.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
